@@ -1,1 +1,3 @@
-/* An Algorithm that predict Relations among the BitString from the given Sets.*/
+/***** An Algorithm that predicts the Relationship among the BitStrings from a given Set.*****/
+
+
