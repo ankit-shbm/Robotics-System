@@ -12,6 +12,6 @@ public class BitRelation
        String string = new String();
        string = "011101010101111000111101010101010111000001101111101010000010101010101010111000010010101001101010";
        System.out.println(string.length());
-    
+        
     }   
  }
